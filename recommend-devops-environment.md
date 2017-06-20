@@ -1,6 +1,6 @@
 # 建议的开发环境配置
 
-## 新建一个VBox虚拟机，
+## 新建一个VBox虚拟机，VM或者真机都可以
 - centos7
 ## 目录规划：
 - /usr/local/webserver/nginx
